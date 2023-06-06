@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calsee</string>
+    <string name="app_title">Calsee- The Calculator</string>
+    <string name="result">Your Result will be displayed here</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="decimal">.</string>
+    <string name="percent">%</string>
+    <string name="multiply">*</string>
+    <string name="equal">=</string>
+    <string name="underroot">underroot</string>
+    <string name="clear">clear</string>
+    <string name="subtract">subtract</string>
+    <string name="parenthesis">small brackets</string>
+    <string name="exponent">exponent</string>
+    <string name="division">divide</string>
+    <string name="sum">add</string>
+</resources>
